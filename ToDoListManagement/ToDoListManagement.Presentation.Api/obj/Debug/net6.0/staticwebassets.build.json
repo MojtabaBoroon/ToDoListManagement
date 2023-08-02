@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "06jW+NtrXh83tViqddexSuL6mWHdqQ8xkWBMxQQuY0s=",
+  "Source": "ToDoListManagement.Presentation.Api",
+  "BasePath": "_content/ToDoListManagement.Presentation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
